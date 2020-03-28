@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2020-03-28-HackTheResume/static/css/main.a2a8d142.chunk.css",
+    "main.js": "/2020-03-28-HackTheResume/static/js/main.81a3dfe8.chunk.js",
+    "main.js.map": "/2020-03-28-HackTheResume/static/js/main.81a3dfe8.chunk.js.map",
+    "runtime-main.js": "/2020-03-28-HackTheResume/static/js/runtime-main.3b5bab6f.js",
+    "runtime-main.js.map": "/2020-03-28-HackTheResume/static/js/runtime-main.3b5bab6f.js.map",
+    "static/js/2.9246e312.chunk.js": "/2020-03-28-HackTheResume/static/js/2.9246e312.chunk.js",
+    "static/js/2.9246e312.chunk.js.map": "/2020-03-28-HackTheResume/static/js/2.9246e312.chunk.js.map",
+    "index.html": "/2020-03-28-HackTheResume/index.html",
+    "precache-manifest.92181b698528b4d308ea806e02df43be.js": "/2020-03-28-HackTheResume/precache-manifest.92181b698528b4d308ea806e02df43be.js",
+    "service-worker.js": "/2020-03-28-HackTheResume/service-worker.js",
+    "static/css/main.a2a8d142.chunk.css.map": "/2020-03-28-HackTheResume/static/css/main.a2a8d142.chunk.css.map",
+    "static/js/2.9246e312.chunk.js.LICENSE.txt": "/2020-03-28-HackTheResume/static/js/2.9246e312.chunk.js.LICENSE.txt",
+    "static/media/cpu.svg": "/2020-03-28-HackTheResume/static/media/cpu.d1276a49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b5bab6f.js",
+    "static/js/2.9246e312.chunk.js",
+    "static/css/main.a2a8d142.chunk.css",
+    "static/js/main.81a3dfe8.chunk.js"
+  ]
+}
